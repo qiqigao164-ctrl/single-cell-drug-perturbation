@@ -1,0 +1,17 @@
+drug,task,model,jaccard_up,jaccard_dn
+Nutlin,interpolation,control,0.0068,0.0112
+Nutlin,interpolation,nearest,0.0234,0.0209
+Nutlin,interpolation,linear_interp,0.0234,0.0209
+Nutlin,interpolation,ridge,0.0192,0.0177
+Nutlin,extrapolation,control,0.0068,0.0112
+Nutlin,extrapolation,nearest,0.0192,0.0177
+Nutlin,extrapolation,linear_interp,0.0178,0.0177
+Nutlin,extrapolation,ridge,0.0234,0.0209
+SAHA,interpolation,control,0.0123,0.0091
+SAHA,interpolation,nearest,0.0517,0.0212
+SAHA,interpolation,linear_interp,0.0513,0.0217
+SAHA,interpolation,ridge,0.0505,0.0217
+SAHA,extrapolation,control,0.0123,0.0091
+SAHA,extrapolation,nearest,0.0505,0.0217
+SAHA,extrapolation,linear_interp,0.0493,0.0217
+SAHA,extrapolation,ridge,0.0513,0.0223

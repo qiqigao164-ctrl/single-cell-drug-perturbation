@@ -1,0 +1,20 @@
+# Data — raw and processed .h5ad (regenerate by running the notebooks)
+data/
+*.h5ad
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Secrets & environment
+.env
+.env.*
+secrets/
+*.token
+
+# Personal / conversation exports
+sciplex单细胞项目.md
+*.md~
+.DS_Store
+Thumbs.db
