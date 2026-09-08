@@ -262,7 +262,7 @@ This suggests that the tested dose trajectory contains strong local smoothness b
 
 More importantly, numerical state prediction and mechanism recovery were not equivalent.
 
-For example, the ridge-predicted transcriptional state produced pathway signals dominated by generic stress-related programs rather than recovering the observed Nutlin-3a p53 program.
+For example, the ridge-predicted transcriptional state produced pathway signals dominated by generic stress-related programs rather than recovering the observed Nutlin-3a p53 program. Pathway recovery was evaluated using matched top-200 gene lists (observed vs. predicted upregulated genes) with identical Hallmark over-representation analysis; the observed top-200 were dominated by the p53 pathway (adjusted p ≈ 0.006), whereas the ridge-predicted top-200 were not.
 
 Thus:
 
@@ -366,7 +366,7 @@ For the tested Nutlin-3a 10 µM interpolation task, nearest-dose and local inter
 
 ![Pathway recovery](figures/prediction/task5_pathway_recovery.png)
 
-Despite partially reconstructing the held-out transcriptional state, the ridge model failed to recover the dominant observed Nutlin-3a p53-associated program, illustrating the distinction between state reconstruction and mechanism recovery.
+Despite partially reconstructing the held-out transcriptional state, the ridge model failed to recover the dominant observed Nutlin-3a p53-associated program, illustrating the distinction between state reconstruction and mechanism recovery. Observed and predicted pathway enrichment were computed from matched top-200 upregulated gene lists using the same Hallmark over-representation analysis.
 
 ---
 

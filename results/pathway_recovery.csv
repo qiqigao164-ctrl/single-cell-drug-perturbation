@@ -1,0 +1,41 @@
+Term,Adjusted P-value,drug,task
+mTORC1 Signaling,0.007410650608353,Nutlin,interpolation
+Androgen Response,0.0098870816368788,Nutlin,interpolation
+UV Response Dn,0.0396571539210829,Nutlin,interpolation
+Estrogen Response Early,0.0396571539210829,Nutlin,interpolation
+Hypoxia,0.1007109400819132,Nutlin,interpolation
+Estrogen Response Late,0.1007109400819132,Nutlin,interpolation
+PI3K/AKT/mTOR  Signaling,0.1181608507056912,Nutlin,interpolation
+Cholesterol Homeostasis,0.1855209935993137,Nutlin,interpolation
+Angiogenesis,0.2175311703333466,Nutlin,interpolation
+Apoptosis,0.3059161564078727,Nutlin,interpolation
+mTORC1 Signaling,0.0079807006551494,Nutlin,extrapolation
+Cholesterol Homeostasis,0.0183973415449808,Nutlin,extrapolation
+UV Response Dn,0.0244044024129741,Nutlin,extrapolation
+Androgen Response,0.0244044024129741,Nutlin,extrapolation
+Hypoxia,0.0244044024129741,Nutlin,extrapolation
+Estrogen Response Early,0.0244044024129741,Nutlin,extrapolation
+Epithelial Mesenchymal Transition,0.0244044024129741,Nutlin,extrapolation
+PI3K/AKT/mTOR  Signaling,0.0879617320062103,Nutlin,extrapolation
+Fatty Acid Metabolism,0.0879617320062103,Nutlin,extrapolation
+UV Response Up,0.0879617320062103,Nutlin,extrapolation
+Hypoxia,0.0007093194682436878,SAHA,interpolation
+mTORC1 Signaling,0.0007093194682436878,SAHA,interpolation
+TNF-alpha Signaling via NF-kB,0.002596894657628,SAHA,interpolation
+Androgen Response,0.0051970557322055,SAHA,interpolation
+Cholesterol Homeostasis,0.0054708971468311,SAHA,interpolation
+Estrogen Response Early,0.0054708971468311,SAHA,interpolation
+Epithelial Mesenchymal Transition,0.0054708971468311,SAHA,interpolation
+Glycolysis,0.020845427061082,SAHA,interpolation
+UV Response Up,0.0236444842167093,SAHA,interpolation
+KRAS Signaling Up,0.0635253622055145,SAHA,interpolation
+mTORC1 Signaling,0.0013840379868169,SAHA,extrapolation
+TNF-alpha Signaling via NF-kB,0.0025335557635395,SAHA,extrapolation
+Hypoxia,0.0025335557635395,SAHA,extrapolation
+Androgen Response,0.0050702982753224,SAHA,extrapolation
+Cholesterol Homeostasis,0.0062270374028972,SAHA,extrapolation
+Estrogen Response Early,0.0062270374028972,SAHA,extrapolation
+UV Response Up,0.0296585864739211,SAHA,extrapolation
+Epithelial Mesenchymal Transition,0.0688621812525902,SAHA,extrapolation
+Glycolysis,0.0688621812525902,SAHA,extrapolation
+Apoptosis,0.0921503859112679,SAHA,extrapolation
